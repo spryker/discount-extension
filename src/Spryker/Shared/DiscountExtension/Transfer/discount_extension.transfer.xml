@@ -22,4 +22,19 @@
     <transfer name="DiscountVoucherCheckResponse">
     </transfer>
 
+    <transfer name="DiscountConfigurationOptions" strict="true">
+    </transfer>
+
+    <transfer name="DiscountConfigurator">
+    </transfer>
+
+    <transfer name="DiscountConfiguratorCollection" strict="true">
+    </transfer>
+
+    <transfer name="DiscountVoucher">
+    </transfer>
+
+    <transfer name="ErrorCollection" strict="true">
+    </transfer>
+
 </transfers>
