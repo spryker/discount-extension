@@ -37,4 +37,9 @@
     <transfer name="ErrorCollection" strict="true">
     </transfer>
 
+    <transfer name="DiscountRuleValueValidationResponse" strict="true">
+        <property name="isSuccessful" type="bool"/>
+        <property name="invalidValues" type="string[]" singular="invalidValue"/>
+    </transfer>
+
 </transfers>
